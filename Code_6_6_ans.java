@@ -10,5 +10,4 @@ public class Code_6_6_ans {
                 System.out.printf("%2d", x * y);
             System.out.println();
         }
-    }
 }
